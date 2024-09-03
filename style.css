@@ -1,0 +1,15 @@
+html {background:#f3fafd;}
+h1 {
+   border: 10px solid;
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    font-family: sans-serif,serif;
+}
+button{
+    color: blue;
+}
+.active-button:active{
+    background-color: red;
+    color: black;
+}
